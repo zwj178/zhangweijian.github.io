@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 研究方向
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zwj178/zhangweijian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+子空间学习 迁移学习 语音情感识别
 
 ### 发表论文
 
