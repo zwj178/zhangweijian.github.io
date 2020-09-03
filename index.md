@@ -1,17 +1,9 @@
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # 个人信息
-## 
-### 
 
-- Bulleted
-- List
+ 
+
+- aaa
+- bbbb
 
 1. Numbered
 2. List
@@ -27,6 +19,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 子空间学习 迁移学习 语音情感识别
 
-### 发表论文
-
+### 子空间学习
 
