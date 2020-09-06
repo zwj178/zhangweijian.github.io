@@ -1,10 +1,7 @@
 ### 个人信息
 
-- aaa
-- bbbb
-
-1. Numbered
-2. List
+## 学校 烟台大学
+## 邮箱 wjzhang231@foxmail.com
 
 ### 研究方向
 
